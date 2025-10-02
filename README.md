@@ -1,4 +1,6 @@
 # Ex02 Django ORM Web Application
+## Devoloped by: CHIDROOP M J
+## Reference Number: 25018548
 ## Date: 02/10/2025
 
 ## AIM
